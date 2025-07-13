@@ -1,4 +1,4 @@
-# 🧠 Detección Automática de Idiomas: EuroParl
+## 🧠 Detección Automática de Idiomas: EuroParl
 
 Este proyecto implementa un sistema completo de **identificación automática de idiomas** utilizando distintas técnicas de procesamiento de lenguaje natural (NLP), tanto tradicionales como basadas en Deep Learning. El objetivo es comparar el rendimiento de diferentes enfoques para determinar cuál es el más eficaz en esta tarea.
 
@@ -6,7 +6,7 @@ Se utiliza el **Europarl Parallel Corpus**, un conjunto de datos multilingüe co
 
 ---
 
-## 📁 Estructura del Proyecto
+### 📁 Estructura del Proyecto
 
 El proyecto sigue una estructura modular, desde la carga de datos hasta la construcción de un pipeline de clasificación. Las etapas son las siguientes:
 
